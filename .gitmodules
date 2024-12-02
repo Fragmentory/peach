@@ -1,0 +1,12 @@
+[submodule "src/test/unity"]
+	path = src/test/unity
+	url = git@github.com:ThrowTheSwitch/Unity.git
+[submodule "build"]
+	path = build
+	url = git@github.com:Fragmentory/build.git
+[submodule "src/test/agency"]
+	path = src/test/agency
+	url = git@github.com:Fragmentory/test.git
+[submodule "src/zero"]
+	path = src/zero
+	url = git@github.com:Fragmentory/zero.git

@@ -1,0 +1,13 @@
+*.cpp eol=auto
+*.hpp eol=auto
+*.md eol=auto
+*.txt eol=auto
+*.svg eol=auto
+*.html eol=auto
+*.xml eol=auto
+*.pu eol=auto
+*.dot eol=auto
+
+*.jpg binary
+*.png binary
+*.pdf binary
